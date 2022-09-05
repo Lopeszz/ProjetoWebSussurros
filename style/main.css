@@ -63,9 +63,28 @@ header div nav a:hover{
     color: #FFFFFF;
 }
 
-.img{
- width: 1512pxz;
- height: 777px;
+footer{
+    
+    background-color: #0C192B;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    
 
 }
+.txt{
+    color: rgba(255, 255, 255, 255);
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px ;
+}
+
 
